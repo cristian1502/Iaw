@@ -13,7 +13,7 @@ netmask 255.255.255.0
 gateway 10.0.16.254  
 dns-nameservers 10.0.1.48 10.0.1.54  
 dns-domain iesmhp.local  
-**2- Hacemos una conexion remota desde gitbash con el comando ssh cristian@10.0.16.2** 
+**2- Hacemos una conexion remota desde gitbash con el comando ssh cristian@10.0.16.228** 
 
 **3-Instalamos el paquete de ruby**  
 sudo apt-get install ruby-full build-essential zlib1g-dev.  
