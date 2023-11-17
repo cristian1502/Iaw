@@ -7,6 +7,4 @@
 [Enlace al taller 4](https://github.com/cristian1502/prueba_Cristian/blob/main/taller4.md)
 ### Unidad 2
 [Enlace a la 2ªParte](https://github.com/cristian1502/iaw/blob/main/jekyll_github_pages.md)
-
-[jekyll-klisé](https://melodic-rabanadas-ff0026.netlify.app/)  
 [lagrange](https://cristian1502.github.io/Lagrange/)
